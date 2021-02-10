@@ -2,6 +2,6 @@ gitの練習をしていきます
 基本的なワークフローを学びます
 ・git add
 ・git commit
-・git remove
+・git re
 ・git status
 ・git diff
